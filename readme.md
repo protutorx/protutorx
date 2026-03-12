@@ -6,19 +6,19 @@ Expert help for assignments, projects, tutoring, and exam preparation.
 </p>
 
 <p align="center">
-🌐 <a href="https://www.protutorx.com/">Visit Website</a>
+🌐 <a href="https://www.protutorx.com/">Visit ProTutorX</a>
 </p>
 
 ---
 
-## 📚 Academic Support Platform
+## 📚 Academic Support
 
-ProTutorX offers academic assistance services designed to support students in their learning journey.  
-Students can get help with assignments, projects, difficult subjects, and exam preparation from experienced tutors.
+ProTutorX provides expert academic assistance for students who need help with assignments, projects, and exam preparation.  
+Students can receive guidance from experienced tutors to better understand difficult subjects and improve academic performance.
 
 ---
 
-## 🚀 Services Offered
+## 🚀 What ProTutorX Offers
 
 ✨ Assignment Help  
 📖 Exam Preparation  
@@ -40,7 +40,7 @@ Students can get help with assignments, projects, difficult subjects, and exam p
 
 ## ⏰ 24/7 Academic Assistance
 
-Students can get academic help anytime for:
+Students can get support anytime for:
 
 - Assignments  
 - Academic projects  
@@ -49,22 +49,15 @@ Students can get academic help anytime for:
 
 ---
 
-## 📊 Platform Highlights
+## 📊 Highlights
 
-🎓 **4,943+** Students Mentored  
-📝 **3,143+** Assignments Completed  
-📈 **97%** Success Rate  
-👨‍🏫 **1,143+** Expert Tutors  
-
----
-
-## 🌍 Explore the Platform
-
-🔗 **Website:**  
-https://www.protutorx.com/
+🎓 **4,943+ Students Mentored**  
+📝 **3,143+ Assignments Completed**  
+📈 **97% Success Rate**  
+👨‍🏫 **1,143+ Expert Tutors**
 
 ---
 
 <p align="center">
-✨ Helping students learn better and achieve academic success ✨
+✨ Helping students achieve better academic results with expert guidance ✨
 </p>
