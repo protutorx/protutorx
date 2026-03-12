@@ -18,14 +18,28 @@ Students can receive guidance from experienced tutors to better understand diffi
 
 ---
 
+<table>
+<tr>
+<td>
+
 ## 🚀 What ProTutorX Offers
 
-✨ Assignment Help  
-📖 Exam Preparation  
-🧠 Project Guidance  
-👩‍🏫 Online Tutoring  
-👥 Group Study Support  
-🎯 Career Mentoring  
+- Assignment Help  
+- Exam Preparation  
+- Project Guidance  
+- Online Tutoring  
+- Group Study Support  
+- Career Mentoring  
+
+</td>
+
+<td align="right" width="220">
+
+<img src="https://i.postimg.cc/tTZyXN5K/studn-withbook-removebg-preview.png" width="180"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
