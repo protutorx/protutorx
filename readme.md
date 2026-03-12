@@ -18,11 +18,9 @@ Students can receive guidance from experienced tutors to better understand diffi
 
 ---
 
-<table>
-<tr>
-<td>
-
 ## 🚀 What ProTutorX Offers
+
+<img src="https://i.postimg.cc/tTZyXN5K/studn-withbook-removebg-preview.png" align="right" width="200"/>
 
 - Assignment Help  
 - Exam Preparation  
@@ -31,15 +29,7 @@ Students can receive guidance from experienced tutors to better understand diffi
 - Group Study Support  
 - Career Mentoring  
 
-</td>
-
-<td align="right" width="220">
-
-<img src="https://i.postimg.cc/tTZyXN5K/studn-withbook-removebg-preview.png" width="180"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
