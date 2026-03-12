@@ -20,7 +20,7 @@ Students can receive guidance from experienced tutors to better understand diffi
 
 ## 🚀 What ProTutorX Offers
 
-<img src="https://i.postimg.cc/tTZyXN5K/studn-withbook-removebg-preview.png" align="right" width="200"/>
+<img src="https://i.postimg.cc/tTZyXN5K/studn-withbook-removebg-preview.png" align="right" width="190" style="margin-left:40px; margin-right:60px;"/>
 
 - Assignment Help  
 - Exam Preparation  
