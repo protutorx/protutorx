@@ -1,4 +1,4 @@
-<h1 align="center">🎓 ProTutorX</h1>
+<h1 align="center">🎓 ProTutorX (Dhruva-Tech-Private-Limited)</h1>
 
 <p align="center">
 <b>Your Academic Success Partner</b><br>
@@ -28,8 +28,27 @@ Students can receive guidance from experienced tutors to better understand diffi
 - Online Tutoring  
 - Group Study Support  
 - Career Mentoring  
+- Coding Support (JavaScript, Python, Java, C++, etc.)  
+- Web Development Projects  
+- Mobile App Development Projects  
+- Artificial Intelligence (AI) Projects  
+- Machine Learning Projects  
+- Final Year Engineering Projects  
 
 <br clear="right"/>
+
+---
+
+## 💻 Development & Technical Services
+
+Along with academic support, **ProTutorX also provides professional technical services** for students and startups:
+
+- Website Development  
+- Mobile Application Development  
+- AI & Machine Learning Solutions  
+- Custom Software Development  
+- Coding Project Assistance  
+- Technical Consulting for Student Projects  
 
 ---
 
@@ -50,6 +69,7 @@ Students can get support anytime for:
 - Academic projects  
 - Exam preparation  
 - Difficult subject concepts  
+- Coding and technical development support  
 
 ---
 
